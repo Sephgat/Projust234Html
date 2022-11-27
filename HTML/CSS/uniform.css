@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+}
+form{
+    text-align: center;
+}
+#selector{
+    margin-left: 250px;
+   width: 100px;
+    float: left;
+    border:solid 2px;
+    border-color: black;
+    border-radius: 5px;
+    height:  650px;
+    background-color: lightgray;
+}
+#ContactCard{
+    margin-left:45px;
+    width: 720px;
+    float: left;
+    border:solid 2px;
+    border-color: black;
+    border-radius: 5px;
+    height:170px;
+    background-color: lavender;
+ }
+#table{
+    background-color: lavender;
+    text-align: center;
+    border: solid;
+    margin-left:400px;
+    margin-right: 347px;
+    overflow-y: scroll;
+    height: 450px;
+}
+table{
+    border-collapse: collapse;
+    margin-top:0px;
+    border: solid;
+    
+}
+td{
+    float: center;
+    border: solid;
+}
